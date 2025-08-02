@@ -441,303 +441,223 @@
   },
   {
     "questionNumber": 41,
-    "question": "Sample question text 41?",
+    "question": "A ______________ if known by the insurer, would lead to the refusal to issue a life policy on the life proposed.",
     "options": {
-      "A": "Option A41",
-      "B": "Option B41",
-      "C": "Option C41",
-      "D": "Option D41"
+      "A": "simple fact",
+      "B": "material fact",
+      "C": "common fact",
+      "D": "special fact"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 41.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 4",
-    "page": 51
+    "answer": ""
   },
   {
     "questionNumber": 42,
-    "question": "Sample question text 42?",
+    "question": "An employer has insurable interest in the life of a key employee (shareholder or partner) whose ______________ could adversely affect the sustainability of the business.",
     "options": {
-      "A": "Option A42",
-      "B": "Option B42",
-      "C": "Option C42",
-      "D": "Option D42"
+      "A": "premature resignation",
+      "B": "early retirement",
+      "C": "premature death",
+      "D": "immediate termination"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 42.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 4",
-    "page": 52
+    "answer": ""
   },
   {
     "questionNumber": 43,
-    "question": "Sample question text 43?",
+    "question": "Select from the following what a life insurer would do if, after the policy has been in force for three years, it is found the life insured’s age is different from what was stated in the life policy.",
     "options": {
-      "A": "Option A43",
-      "B": "Option B43",
-      "C": "Option C43",
-      "D": "Option D43"
+      "A": "The life insurer will terminate the policy",
+      "B": "The life insurer will vary sum assured, premium and bonuses to reflect the actual age",
+      "C": "The life insurer will charge the life assured in court",
+      "D": "The life insurer will take no action"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 43.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 4",
-    "page": 53
+    "answer": ""
   },
   {
     "questionNumber": 44,
-    "question": "Sample question text 44?",
+    "question": "Identify when insurable interest needs to be present.",
     "options": {
-      "A": "Option A44",
-      "B": "Option B44",
-      "C": "Option C44",
-      "D": "Option D44"
+      "A": "Before the death of the life assured",
+      "B": "At the inception of the policy",
+      "C": "During the death of the life assured",
+      "D": "At the maturity of the policy"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 44.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 4",
-    "page": 54
+    "answer": ""
   },
   {
     "questionNumber": 45,
-    "question": "Sample question text 45?",
+    "question": "Policyholder Mr A decides to surrender his standard life policy after 4 years. He has no outstanding premium and the policy is in force. The surrender value he is entitled to is",
     "options": {
-      "A": "Option A45",
-      "B": "Option B45",
-      "C": "Option C45",
-      "D": "Option D45"
+      "A": "a sum allocated towards savings and the earnings less a surrender charge",
+      "B": "a sum allocated towards savings and earnings and with no other charges deducted",
+      "C": "the total sum assured with no deductions",
+      "D": "a sum allocated towards savings less a surrender charge"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 45.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 4",
-    "page": 55
+    "answer": ""
   },
   {
     "questionNumber": 46,
-    "question": "Sample question text 46?",
+    "question": "Policy monies payable under a life policy or monies payable on the surrender of a life policy shall be paid",
     "options": {
-      "A": "Option A46",
-      "B": "Option B46",
-      "C": "Option C46",
-      "D": "Option D46"
+      "A": "without the consent of persons entitled",
+      "B": "only upon death or maturity of the policy",
+      "C": "less deduction for the medical expenses",
+      "D": "without any deduction for monies not due under the policy"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 46.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 4",
-    "page": 56
+    "answer": ""
   },
   {
     "questionNumber": 47,
-    "question": "Sample question text 47?",
+    "question": "With regard to a life insurance proposal, _________________ is a material fact which, if known by the insurer, would have been declined, imposed higher premium loadings or limited policy coverage.",
     "options": {
-      "A": "Option A47",
-      "B": "Option B47",
-      "C": "Option C47",
-      "D": "Option D47"
+      "A": "engagement in professional sports",
+      "B": "diagnosis of a terminal illness",
+      "C": "suspension of driving license",
+      "D": "active engagement in politics"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 47.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 4",
-    "page": 57
+    "answer": ""
   },
   {
     "questionNumber": 48,
-    "question": "Sample question text 48?",
+    "question": "If a policy owner wants to surrender a life policy, the life insurance company will determine the surrender value entitlement\nI. in accordance with generally accepted actuarial principles\nII. in a manner ensuring fair treatment of the policy owner\nIII. in compliance with standards of business conduct\nIV. in accordance with LIFO and FIFO principles",
     "options": {
-      "A": "Option A48",
-      "B": "Option B48",
-      "C": "Option C48",
-      "D": "Option D48"
+      "A": "I, II and III",
+      "B": "I, II and IV",
+      "C": "I, III and IV",
+      "D": "II, III and IV"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 48.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 4",
-    "page": 58
+    "answer": ""
   },
   {
     "questionNumber": 49,
-    "question": "Sample question text 49?",
+    "question": "The main purpose of life insurance is to provide________________ for dependents.",
     "options": {
-      "A": "Option A49",
-      "B": "Option B49",
-      "C": "Option C49",
-      "D": "Option D49"
+      "A": "medical expenses",
+      "B": "emotional protection",
+      "C": "credit facility",
+      "D": "financial protection"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 49.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 4",
-    "page": 59
+    "answer": ""
   },
   {
     "questionNumber": 50,
-    "question": "Sample question text 50?",
+    "question": "______________ insurance is the earliest and simplest form of life insurance for a fixed term or period and is not permanent.",
     "options": {
-      "A": "Option A50",
-      "B": "Option B50",
-      "C": "Option C50",
-      "D": "Option D50"
+      "A": "Endowment",
+      "B": "Whole life",
+      "C": "Term",
+      "D": "Investment-linked"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 50.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 5",
-    "page": 60
+    "answer": ""
   },
   {
     "questionNumber": 51,
-    "question": "Sample question text 51?",
+    "question": "Non-participating life policyholders have no right to share in the ________________ of the insurer’s life insurance fund.",
     "options": {
-      "A": "Option A51",
-      "B": "Option B51",
-      "C": "Option C51",
-      "D": "Option D51"
+      "A": "distributable profits",
+      "B": "investment returns",
+      "C": "operating expenses",
+      "D": "divisible surplus"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 51.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 5",
-    "page": 61
+    "answer": ""
   },
   {
     "questionNumber": 52,
-    "question": "Sample question text 52?",
+    "question": "_______________ is/are the investments that a life office has made from the premiums it has received after meeting its outgoes in the form of claims and expenses.",
     "options": {
-      "A": "Option A52",
-      "B": "Option B52",
-      "C": "Option C52",
-      "D": "Option D52"
+      "A": "Surplus",
+      "B": "The market value",
+      "C": "Liability",
+      "D": "Assets"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 52.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 5",
-    "page": 62
+    "answer": ""
   },
   {
     "questionNumber": 53,
-    "question": "Sample question text 53?",
+    "question": "Group term life insurance is a benefit frequently offered by employers either on a contributory or non-contributory basis. ‘Non-contributory basis’ means premiums are",
     "options": {
-      "A": "Option A53",
-      "B": "Option B53",
-      "C": "Option C53",
-      "D": "Option D53"
+      "A": "subsidized by the employer",
+      "B": "paid entirely by the employer",
+      "C": "paid by the government",
+      "D": "paid entirely by the employee"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 53.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 5",
-    "page": 63
+    "answer": ""
   },
   {
     "questionNumber": 54,
-    "question": "Sample question text 54?",
+    "question": "Which of the following statements best describes the investment-linked life insurance policy?",
     "options": {
-      "A": "Option A54",
-      "B": "Option B54",
-      "C": "Option C54",
-      "D": "Option D54"
+      "A": "Protection and investment",
+      "B": "Protection for the whole of life",
+      "C": "Retirement fund and pension",
+      "D": "Saving and protection"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 54.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 5",
-    "page": 64
+    "answer": ""
   },
   {
     "questionNumber": 55,
-    "question": "Sample question text 55?",
+    "question": "In planning for his retirement, Tom purchased a deferred annuity which guaranteed him a stream of income after retirement. Unfortunately, Tom died midway through the 10-year contribution period. The premiums paid by Tom will be",
     "options": {
-      "A": "Option A55",
-      "B": "Option B55",
-      "C": "Option C55",
-      "D": "Option D55"
+      "A": "returned with or without interest",
+      "B": "deferred to the next of kin or estate",
+      "C": "converted to an automatic premium loan",
+      "D": "considered as earned by the insurer"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 55.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 5",
-    "page": 65
+    "answer": ""
   },
   {
     "questionNumber": 56,
-    "question": "Sample question text 56?",
+    "question": "The eligibility criteria to automatically add new employees to a group life policy from the date of recruitment is:",
     "options": {
-      "A": "Option A56",
-      "B": "Option B56",
-      "C": "Option C56",
-      "D": "Option D56"
+      "A": "All employees selected by an internal recruitment process",
+      "B": "Healthy employees under a contract of service regardless of age",
+      "C": "Permanent employees between the ages of 16 and 60",
+      "D": "Permanent and temporary workers with valid work permits"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 56.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 5",
-    "page": 66
+    "answer": ""
   },
   {
     "questionNumber": 57,
-    "question": "Sample question text 57?",
+    "question": "The term “level premium system” as applied to life insurance contracts means premiums are",
     "options": {
-      "A": "Option A57",
-      "B": "Option B57",
-      "C": "Option C57",
-      "D": "Option D57"
+      "A": "increased to commensurate with the increase in the amount of benefits",
+      "B": "lower initially and then level off at the end of the contract",
+      "C": "guaranteed to remain the same throughout the contract",
+      "D": "levelled to reflect the increase in the risk as policy matures"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 57.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 5",
-    "page": 67
+    "answer": ""
   },
   {
     "questionNumber": 58,
-    "question": "Sample question text 58?",
+    "question": "Group life insurance premium is calculated differently compared to individual life insurance premium. It is",
     "options": {
-      "A": "Option A58",
-      "B": "Option B58",
-      "C": "Option C58",
-      "D": "Option D58"
+      "A": "multiple rated",
+      "B": "lenient rated",
+      "C": "group rated",
+      "D": "experience rated"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 58.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 5",
-    "page": 68
+    "answer": ""
   },
   {
     "questionNumber": 59,
-    "question": "Sample question text 59?",
+    "question": "Identify why although life insurance companies use the same factors to determine premium rates, premiums differ.",
     "options": {
-      "A": "Option A59",
-      "B": "Option B59",
-      "C": "Option C59",
-      "D": "Option D59"
+      "A": "Because of different asset valuation methods and provisions for liabilities",
+      "B": "Because of different capital reserve structures and investment methods",
+      "C": "Because of different cost structures, assessment of risk and investment returns",
+      "D": "Because of different distribution channels, branding and target markets"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 59.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 5",
-    "page": 69
+    "answer": ""
   },
   {
     "questionNumber": 60,
-    "question": "Sample question text 60?",
+    "question": "Which of the following is NOT among the sources of information for the life insurer in making a proper assessment of risk?",
     "options": {
-      "A": "Option A60",
-      "B": "Option B60",
-      "C": "Option C60",
-      "D": "Option D60"
+      "A": "Agents’s report",
+      "B": "Medical examiners report",
+      "C": "Police report",
+      "D": "Proposal form"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 60.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 6",
-    "page": 70
+    "answer": ""
   },
   {
     "questionNumber": 61,
