@@ -8,11 +8,7 @@
       "C": "natural death",
       "D": "legal liability"
     },
-    "answer": "C",
-    "explanation": "General insurance covers financial loss from unforeseen events like accidents or damage to property. Natural death is covered by life insurance, not general insurance.",
-    "textbook": "PCEIA",
-    "chapter": "Types of Insurance",
-    "page": 74
+    "answer": ""
   },
   {
     "questionNumber": 2,
@@ -20,284 +16,208 @@
     "options": {
       "A": "Insurance and reinsurance companies",
       "B": "Individuals and business entities",
-      "C": "Lloyd\u2019s underwriting members",
+      "C": "Lloyd’s underwriting members",
       "D": "Insurance brokers and agents"
     },
-    "answer": "B",
-    "explanation": "Insurance products are primarily purchased by individuals and business entities to protect against financial risks or losses.",
-    "textbook": "PCEIA",
-    "chapter": "The Insurance Market",
-    "page": 12
+    "answer": ""
   },
   {
     "questionNumber": 3,
-    "question": "Sample question text 3?",
+    "question": "In the context of the insurance market, insurance intermediaries are",
     "options": {
-      "A": "Option A3",
-      "B": "Option B3",
-      "C": "Option C3",
-      "D": "Option D3"
+      "A": "real estate agents and property developers",
+      "B": "insurance brokers, agents and financial advisers",
+      "C": "trustees and financial Institutions",
+      "D": "motor franchise holders and stock brokers"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 3.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 0",
-    "page": 13
+    "answer": ""
   },
   {
     "questionNumber": 4,
-    "question": "Sample question text 4?",
+    "question": "Conventional insurance does not conform to Syariah rules and requirements because of involvement of the following elements, EXCEPT:",
     "options": {
-      "A": "Option A4",
-      "B": "Option B4",
-      "C": "Option C4",
-      "D": "Option D4"
+      "A": "Maisir - gambling as the consequence of the presence of uncertainty",
+      "B": "Riba - the existence of interest or usury in its investment activities",
+      "C": "Gharar - uncertainty in the contract of insurance",
+      "D": "Mudharabah - a contract whereby both parties agree on a profit and loss sharing"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 4.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 0",
-    "page": 14
+    "answer": ""
   },
   {
     "questionNumber": 5,
-    "question": "Sample question text 5?",
+    "question": "An example of a fundamental risk is",
     "options": {
-      "A": "Option A5",
-      "B": "Option B5",
-      "C": "Option C5",
-      "D": "Option D5"
+      "A": "a road accident causing loss, injury and death to several motorists",
+      "B": "a stock market crash causing heavy financial loss to investors",
+      "C": "fire destroying a row of shop houses causing severe damage",
+      "D": "a pandemic causing many communities in a region to shutdown"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 5.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 0",
-    "page": 15
+    "answer": ""
   },
   {
     "questionNumber": 6,
-    "question": "Sample question text 6?",
+    "question": "It is not acceptable to insure against the payment of fines or penalties imposed for contravening the law because",
     "options": {
-      "A": "Option A6",
-      "B": "Option B6",
-      "C": "Option C6",
-      "D": "Option D6"
+      "A": "of avoidance of high risk",
+      "B": "of exposure to undue risk",
+      "C": "it is against public policy",
+      "D": "of the exclusion in the contract"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 6.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 0",
-    "page": 16
+    "answer": ""
   },
   {
     "questionNumber": 7,
-    "question": "Sample question text 7?",
+    "question": "The government and society as a whole are solely responsible for this type of risks:",
     "options": {
-      "A": "Option A7",
-      "B": "Option B7",
-      "C": "Option C7",
-      "D": "Option D7"
+      "A": "Fundamental risks",
+      "B": "Speculative risks",
+      "C": "Pure risks",
+      "D": "Particular risks"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 7.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 0",
-    "page": 17
+    "answer": ""
   },
   {
     "questionNumber": 8,
-    "question": "Sample question text 8?",
+    "question": "Select the statement that is true of “Risk Control”",
     "options": {
-      "A": "Option A8",
-      "B": "Option B8",
-      "C": "Option C8",
-      "D": "Option D8"
+      "A": "Minor loss can be retained by an organization",
+      "B": "Risk can be avoided by not participating in the particular activity that gives rise to the risk",
+      "C": "Risk of severe losses can be mitigated with adequate disaster recovery plans",
+      "D": "Risk can be prevented with implementation of prudent risk management"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 8.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 0",
-    "page": 18
+    "answer": ""
   },
   {
     "questionNumber": 9,
-    "question": "Sample question text 9?",
+    "question": "In insurance, the transfer of rights and liabilities of the insured to a new insured is referred to as _________________",
     "options": {
-      "A": "Option A9",
-      "B": "Option B9",
-      "C": "Option C9",
-      "D": "Option D9"
+      "A": "an assignment of policy proceeds",
+      "B": "a transfer of interest",
+      "C": "a transfer of policy",
+      "D": "an assignment of policy"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 9.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 0",
-    "page": 19
+    "answer": ""
   },
   {
     "questionNumber": 10,
-    "question": "Sample question text 10?",
+    "question": "In a life proposal where age is a material fact, _______________ is required to avoid a misrepresentation by the proposer.",
     "options": {
-      "A": "Option A10",
-      "B": "Option B10",
-      "C": "Option C10",
-      "D": "Option D10"
+      "A": "the proposal form",
+      "B": "the driving licence",
+      "C": "proof of age",
+      "D": "the death certificate"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 10.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 1",
-    "page": 20
+    "answer": ""
   },
   {
     "questionNumber": 11,
-    "question": "Sample question text 11?",
+    "question": "The requirement of insurable interest is merely to ensure that insurance is not abused for the purpose of speculation, wagering or______________.",
     "options": {
-      "A": "Option A11",
-      "B": "Option B11",
-      "C": "Option C11",
-      "D": "Option D11"
+      "A": "profiteering",
+      "B": "investing",
+      "C": "gambling",
+      "D": "gaming"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 11.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 1",
-    "page": 21
+    "answer": ""
   },
   {
     "questionNumber": 12,
-    "question": "Sample question text 12?",
+    "question": "_________________ are the subject matter of insurance in a life or personal accident policy.",
     "options": {
-      "A": "Option A12",
-      "B": "Option B12",
-      "C": "Option C12",
-      "D": "Option D12"
+      "A": "Funeral expenses",
+      "B": "Life and limb",
+      "C": "Medical cost and expenses",
+      "D": "Salaries and wages"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 12.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 1",
-    "page": 22
+    "answer": ""
   },
   {
     "questionNumber": 13,
-    "question": "Sample question text 13?",
+    "question": "In the absence of any specific questions in the proposal form, an insured is not required to disclose a fact that _________________",
     "options": {
-      "A": "Option A13",
-      "B": "Option B13",
-      "C": "Option C13",
-      "D": "Option D13"
+      "A": "increases the risk to the insurer",
+      "B": "diminishes the risk to the insurer",
+      "C": "affects insurer’s rating of the risk",
+      "D": "influences the decision in acceptance of the risk"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 13.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 1",
-    "page": 23
+    "answer": ""
   },
   {
     "questionNumber": 14,
-    "question": "Sample question text 14?",
+    "question": "Proximate cause is a key principle of insurance and is concerned with how the loss or damage actually occurred and whether it is a direct result of_________________",
     "options": {
-      "A": "Option A14",
-      "B": "Option B14",
-      "C": "Option C14",
-      "D": "Option D14"
+      "A": "an exceptional peril",
+      "B": "an uninsured peril",
+      "C": "an insured peril",
+      "D": "an excluded peril"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 14.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 1",
-    "page": 24
+    "answer": ""
   },
   {
     "questionNumber": 15,
-    "question": "Sample question text 15?",
+    "question": "A mountain climber broke his leg and was hospitalized but died in hospital due to SARS contracted from another patient. The insurer will decline the death claim under his personal accident policy due to the application of the principle of",
     "options": {
-      "A": "Option A15",
-      "B": "Option B15",
-      "C": "Option C15",
-      "D": "Option D15"
+      "A": "indemnity",
+      "B": "proximate cause",
+      "C": "insurable interest",
+      "D": "contribution"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 15.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 1",
-    "page": 25
+    "answer": ""
   },
   {
     "questionNumber": 16,
-    "question": "Sample question text 16?",
+    "question": "Consumers are required to submit their complaints to Financial Mediation Bureau within _________________ from the date of the final decision of the financial service provider.",
     "options": {
-      "A": "Option A16",
-      "B": "Option B16",
-      "C": "Option C16",
-      "D": "Option D16"
+      "A": "one month",
+      "B": "three months",
+      "C": "six months",
+      "D": "nine months"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 16.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 1",
-    "page": 26
+    "answer": ""
   },
   {
     "questionNumber": 17,
-    "question": "Sample question text 17?",
+    "question": "Members of the Financial Mediation Bureau do NOT include",
     "options": {
-      "A": "Option A17",
-      "B": "Option B17",
-      "C": "Option C17",
-      "D": "Option D17"
+      "A": "takaful operators",
+      "B": "licensed insurance brokers",
+      "C": "licensed banking institutions",
+      "D": "licensed insurance companies"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 17.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 1",
-    "page": 27
+    "answer": ""
   },
   {
     "questionNumber": 18,
-    "question": "Sample question text 18?",
+    "question": "Identify which of the following are NOT covered by the provisions of Perbadanan Insurans Deposit Malaysia (PIDM).",
     "options": {
-      "A": "Option A18",
-      "B": "Option B18",
-      "C": "Option C18",
-      "D": "Option D18"
+      "A": "Islamic banks",
+      "B": "Reinsurance companies",
+      "C": "Takaful companies",
+      "D": "Commercial banks"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 18.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 1",
-    "page": 28
+    "answer": ""
   },
   {
     "questionNumber": 19,
-    "question": "Sample question text 19?",
+    "question": "An insurance company can be wound up",
     "options": {
-      "A": "Option A19",
-      "B": "Option B19",
-      "C": "Option C19",
-      "D": "Option D19"
+      "A": "by making a public declaration",
+      "B": "by filing an application to the high court",
+      "C": "voluntarily by applying to the Companies Commission of Malaysia",
+      "D": "by getting the prior written approval of Bank Negara Malaysia"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 19.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 1",
-    "page": 29
+    "answer": ""
   },
   {
     "questionNumber": 20,
-    "question": "Sample question text 20?",
+    "question": "Insurance companies in Malaysia are required to be incorporated as",
     "options": {
-      "A": "Option A20",
-      "B": "Option B20",
-      "C": "Option C20",
-      "D": "Option D20"
+      "A": "private companies",
+      "B": "mutual companies",
+      "C": "public companies",
+      "D": "large corporations"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 20.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 2",
-    "page": 30
+    "answer": ""
   },
   {
     "questionNumber": 21,
