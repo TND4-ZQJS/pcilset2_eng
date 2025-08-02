@@ -1,17 +1,37 @@
 let currentQuestion = 1;
 let questions = [];
 let score = 0;
+let quotes = [];
 
 // 🔧 CHANGE THIS STRING when you switch to a different question set
-const SET_KEY = 'pcilset2_eng'; // ← Change to 'set2_' or 'set3_' etc. for other sets
+const SET_KEY = 'ceilliset1_eng'; // ← Change to 'set2_' or 'set3_' etc. for other sets
 
-fetch('pcilset2_eng.json') // Update filename if needed
+// Load questions
+fetch('ceillimock_set3.json')
   .then(response => response.json())
   .then(data => {
     questions = data;
     loadProgress();
     displayQuestion(currentQuestion);
   });
+
+// Load quotes
+fetch('quotes.json')
+  .then(res => res.json())
+  .then(data => {
+    quotes = data;
+    showRandomQuote(); // Show first quote on page load
+  });
+
+function showRandomQuote() {
+  if (!quotes.length) return;
+  const randomIndex = Math.floor(Math.random() * quotes.length);
+  const quote = quotes[randomIndex];
+  const quoteBox = document.getElementById('quote-box');
+  if (quoteBox) {
+    quoteBox.innerHTML = `<span class="quote-big">“</span><span class="quote-text">${quote}</span><span class="quote-big">”</span>`;
+  }
+}
 
 function displayQuestion(num) {
   const q = questions[num - 1];
@@ -75,6 +95,7 @@ function nextQuestion() {
   if (currentQuestion < questions.length) {
     currentQuestion++;
     displayQuestion(currentQuestion);
+    showRandomQuote(); // ⬅️ Change quote on Next
   }
 }
 
@@ -128,7 +149,6 @@ function resetProgress() {
   }
 }
 
-// ✅ Use existing HTML <div id="resume-banner"> instead of injecting a new one
 function showResumeBanner(savedQ) {
   const banner = document.getElementById('resume-banner');
   if (!banner) return;
@@ -139,17 +159,15 @@ function showResumeBanner(savedQ) {
     <span class="close-btn" onclick="dismissResumeBanner()">×</span>
   `;
 
-  // ⏱ Auto-hide after 5 seconds
   setTimeout(() => {
     banner.classList.add('fade-out');
     setTimeout(() => {
       banner.style.display = 'none';
-      banner.classList.remove('fade-out'); // Reset for future use
-    }, 500); // match fade-out duration in CSS
-  }, 5000); // wait 5 seconds before fading out
+      banner.classList.remove('fade-out');
+    }, 500);
+  }, 5000);
 }
 
-// ✅ Close banner handler
 function dismissResumeBanner() {
   const banner = document.getElementById('resume-banner');
   if (banner) {
