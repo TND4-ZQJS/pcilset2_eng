@@ -661,602 +661,442 @@
   },
   {
     "questionNumber": 61,
-    "question": "Sample question text 61?",
+    "question": "In the assumption of risk by a life insurer, the life insurer",
     "options": {
-      "A": "Option A61",
-      "B": "Option B61",
-      "C": "Option C61",
-      "D": "Option D61"
+      "A": "must have underwritten the risk",
+      "B": "must have received acknowledgment from the client that they have received the policy document",
+      "C": "may allow a backdating of the commencement date of insurance in some cases to take advantage of a reduced premium",
+      "D": "must have received the total yearly premium after the issuance of the acceptance letter"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 61.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 6",
-    "page": 71
+    "answer": ""
   },
   {
     "questionNumber": 62,
-    "question": "Sample question text 62?",
+    "question": "The following is NOT one of the methods of accepting sub-standard lives:",
     "options": {
-      "A": "Option A62",
-      "B": "Option B62",
-      "C": "Option C62",
-      "D": "Option D62"
+      "A": "Charging the same premium but decreasing the death benefit",
+      "B": "Declining coverage limitation",
+      "C": "Charging a single premium",
+      "D": "Charging an extra premium"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 62.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 6",
-    "page": 72
+    "answer": ""
   },
   {
     "questionNumber": 63,
-    "question": "Sample question text 63?",
+    "question": "Following the death of the insured, a claimant must ________________ to begin the claim and pay-out process.",
     "options": {
-      "A": "Option A63",
-      "B": "Option B63",
-      "C": "Option C63",
-      "D": "Option D63"
+      "A": "notify the insurance company or agent",
+      "B": "submit the death certificate",
+      "C": "complete a claim form",
+      "D": "make a police report"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 63.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 6",
-    "page": 73
+    "answer": ""
   },
   {
     "questionNumber": 64,
-    "question": "Sample question text 64?",
+    "question": "Before paying a maturity claim under an endowment insurance, the life office requires",
     "options": {
-      "A": "Option A64",
-      "B": "Option B64",
-      "C": "Option C64",
-      "D": "Option D64"
+      "A": "proof of age of the life insured",
+      "B": "proof of the death of the life assured",
+      "C": "the name of the trustees",
+      "D": "the name of the beneficiaries"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 64.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 6",
-    "page": 74
+    "answer": ""
   },
   {
     "questionNumber": 65,
-    "question": "Sample question text 65?",
+    "question": "Which of the following statements about the payment of policies monies under a life policy is true?",
     "options": {
-      "A": "Option A65",
-      "B": "Option B65",
-      "C": "Option C65",
-      "D": "Option D65"
+      "A": "Where the policy owner dies without having made a nomination, the insurer will pay the policy monies to the lawful executor or administrator of the estate",
+      "B": "If there is no lawful executor or administrator and no nomination, the insurer will pay the policy monies to the trustee",
+      "C": "A nomination by a Muslim policy owner creates a trust in favour of the nominee",
+      "D": "Monies payable upon the death of a policy owner form part of the estate of the insured and subject to his or her debts"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 65.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 6",
-    "page": 75
+    "answer": ""
   },
   {
     "questionNumber": 66,
-    "question": "Sample question text 66?",
+    "question": "In obtaining underwriting information, an insurance agent should ensure the completion of the proposal form and the________________.",
     "options": {
-      "A": "Option A66",
-      "B": "Option B66",
-      "C": "Option C66",
-      "D": "Option D66"
+      "A": "credibility of the medical report",
+      "B": "accuracy of relevant records",
+      "C": "integrity of personal data",
+      "D": "relevance of questions"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 66.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 6",
-    "page": 76
+    "answer": ""
   },
   {
     "questionNumber": 67,
-    "question": "Sample question text 67?",
+    "question": "A life insurance agent must ensure that the policy proposed is suitable to the needs and is within the_______________ of the prospective policy owner.",
     "options": {
-      "A": "Option A67",
-      "B": "Option B67",
-      "C": "Option C67",
-      "D": "Option D67"
+      "A": "ability",
+      "B": "authority",
+      "C": "desires",
+      "D": "resources"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 67.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 6",
-    "page": 77
+    "answer": ""
   },
   {
     "questionNumber": 68,
-    "question": "Sample question text 68?",
+    "question": "In relation to existing policyholders,",
     "options": {
-      "A": "Option A68",
-      "B": "Option B68",
-      "C": "Option C68",
-      "D": "Option D68"
+      "A": "agents shall render all reasonable assistance help the client secure the next life insurance policy applied for",
+      "B": "agents shall render all reasonable assistance to clients and their family members including financial assistance needed by the clients’ children",
+      "C": "agents shall render all reasonable assistance to claimants in filing claims forms and complying with the requirement related to claim settlement",
+      "D": "agents shall render all reasonable financial resources to assist clients in all circumstances including paying the life insurance premium"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 68.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 6",
-    "page": 78
+    "answer": ""
   },
   {
     "questionNumber": 69,
-    "question": "Sample question text 69?",
+    "question": "If a group life insurance is arranged for persons in relation to whom the group policy owner has no insurable interest, it is NOT necessary for the agent to disclose to each of the insured persons",
     "options": {
-      "A": "Option A69",
-      "B": "Option B69",
-      "C": "Option C69",
-      "D": "Option D69"
+      "A": "the premium charged by the licensed insurer",
+      "B": "the policy terms offered by a competitor",
+      "C": "the name of the licensed insurer",
+      "D": "his relationship with the insurer"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 69.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 6",
-    "page": 79
+    "answer": ""
   },
   {
     "questionNumber": 70,
-    "question": "Sample question text 70?",
+    "question": "In drawing attention to the consequences of failure to disclose all material facts, the agent should _______________.",
     "options": {
-      "A": "Option A70",
-      "B": "Option B70",
-      "C": "Option C70",
-      "D": "Option D70"
+      "A": "warrant that all answers given in the proposal form are accurate and no information is hidden",
+      "B": "make it clear that all answers or statements are the proposer’s own responsibility",
+      "C": "assist the proposer in answering the questions in the proposal form to the best of his ability",
+      "D": "make a statutory declaration that the statements made in the proposal form are true and to the best of his knowledge"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 70.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 7",
-    "page": 80
+    "answer": ""
   },
   {
     "questionNumber": 71,
-    "question": "Sample question text 71?",
+    "question": "Investment-linked insurance is also available in USA and it is named______________ life insurance.",
     "options": {
-      "A": "Option A71",
-      "B": "Option B71",
-      "C": "Option C71",
-      "D": "Option D71"
+      "A": "multinational",
+      "B": "universal",
+      "C": "international",
+      "D": "variable"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 71.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 7",
-    "page": 81
+    "answer": ""
   },
   {
     "questionNumber": 72,
-    "question": "Sample question text 72?",
+    "question": "Choose the statement that is correct regarding a regular premium investment-linked policy.",
     "options": {
-      "A": "Option A72",
-      "B": "Option B72",
-      "C": "Option C72",
-      "D": "Option D72"
+      "A": "Regular premium investment-linked insurance is more inclined towards protection than investment",
+      "B": "Regular premium investment-linked insurance is more inclined towards investment than protection",
+      "C": "100% of the premium received for regular premium investment-linked insurance is used to purchase fund units in the first year",
+      "D": "80% of the premium received by the insurer for regular premium investment-linked insurance is used to purchase fund units in the first year"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 72.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 7",
-    "page": 82
+    "answer": ""
   },
   {
     "questionNumber": 73,
-    "question": "Sample question text 73?",
+    "question": "The statement below is correct about regular premium investment-linked insurance:",
     "options": {
-      "A": "Option A73",
-      "B": "Option B73",
-      "C": "Option C73",
-      "D": "Option D73"
+      "A": "The minimum annual premium allowed by insurers is RM5,000",
+      "B": "Bank Negara Malaysia guidelines regarding minimum annual premium allowed must be followed",
+      "C": "Bank Negara Malaysia guidelines do not stipulate the minimum annual premium",
+      "D": "The maximum annual premium allowed by insurers is RM10,000"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 73.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 7",
-    "page": 83
+    "answer": ""
   },
   {
     "questionNumber": 74,
-    "question": "Sample question text 74?",
+    "question": "On the tenth year of the investment-linked policy, the account value is insufficient to cover the cost of insurance. Select the statement that explains what will happen to the policy in this case",
     "options": {
-      "A": "Option A74",
-      "B": "Option B74",
-      "C": "Option C74",
-      "D": "Option D74"
+      "A": "The policy will be terminated",
+      "B": "The policy will be frozen",
+      "C": "The policy will lapse",
+      "D": "The no-lapse guarantee period will trigger"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 74.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 7",
-    "page": 84
+    "answer": ""
   },
   {
     "questionNumber": 75,
-    "question": "Sample question text 75?",
+    "question": "One of the particularly important conditions to be satisfied before an investment-linked policy can be considered as not lapsed even if the account value is insufficient to cover the COI and other necessary charge is",
     "options": {
-      "A": "Option A75",
-      "B": "Option B75",
-      "C": "Option C75",
-      "D": "Option D75"
+      "A": "the regular premium has been paid without fail",
+      "B": "investment requests like fund switching have been made",
+      "C": "the premium holiday has been effected only once",
+      "D": "partial withdrawal from the account value has been made"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 75.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 7",
-    "page": 85
+    "answer": ""
   },
   {
     "questionNumber": 76,
-    "question": "Sample question text 76?",
+    "question": "Donald, aged 56, wants to purchase an investment-linked policy from Triple Ace Insurance Berhad. If his basic regular premium is RM6,000, he will be covered for a minimum of",
     "options": {
-      "A": "Option A76",
-      "B": "Option B76",
-      "C": "Option C76",
-      "D": "Option D76"
+      "A": "RM360,000",
+      "B": "RM600,000",
+      "C": "RM60,000",
+      "D": "RM90,000"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 76.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 7",
-    "page": 86
+    "answer": ""
   },
   {
     "questionNumber": 77,
-    "question": "Sample question text 77?",
+    "question": "For single premium investment-linked life insurance, once the account value exceeds the basic sum assured, the death benefit will be the",
     "options": {
-      "A": "Option A77",
-      "B": "Option B77",
-      "C": "Option C77",
-      "D": "Option D77"
+      "A": "basic sum assured plus account value",
+      "B": "account value",
+      "C": "basic sum assured",
+      "D": "account value minus basic sum assured"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 77.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 7",
-    "page": 87
+    "answer": ""
   },
   {
     "questionNumber": 78,
-    "question": "Sample question text 78?",
+    "question": "The following statement is correct regarding the deduction of the cost of insurance (COI) for single premium investment-linked policies:",
     "options": {
-      "A": "Option A78",
-      "B": "Option B78",
-      "C": "Option C78",
-      "D": "Option D78"
+      "A": "Deduction of COI is to cover the shortfall between the account value and the sum assured",
+      "B": "The COI will still be deducted even though the account value exceeds the basic sum assured",
+      "C": "Deduction of COI will be made annually in any circumstances",
+      "D": "The COI is used to cover the basic sum assured and future premium in advance"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 78.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 7",
-    "page": 88
+    "answer": ""
   },
   {
     "questionNumber": 79,
-    "question": "Sample question text 79?",
+    "question": "Identify which of the following is NOT benefit of purchasing an investment-linked policy.",
     "options": {
-      "A": "Option A79",
-      "B": "Option B79",
-      "C": "Option C79",
-      "D": "Option D79"
+      "A": "Less diversification",
+      "B": "Flexibility",
+      "C": "Managed by professional fund managers",
+      "D": "Transparency"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 79.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 7",
-    "page": 89
+    "answer": ""
   },
   {
     "questionNumber": 80,
-    "question": "Sample question text 80?",
+    "question": "Select the statement that is true of an investment-linked policy.",
     "options": {
-      "A": "Option A80",
-      "B": "Option B80",
-      "C": "Option C80",
-      "D": "Option D80"
+      "A": "Premiums paid will only be used for specific investment funds of the policy owner’s choice from the range of funds available",
+      "B": "The cash value is 100% guaranteed by the insurer and any losses incurred during the policy tenure will be borne by the insurer",
+      "C": "Premiums paid provide life insurance cover and are also invested in specific investment funds of the policy owner’s choice",
+      "D": "The maturity benefit is equal to 60 times of the total premium paid during the tenure of the policy"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 80.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 8",
-    "page": 90
+    "answer": ""
   },
   {
     "questionNumber": 81,
-    "question": "Sample question text 81?",
+    "question": "Identify the flexibility offered by an investment-linked policy which is NOT available with a whole life policy.",
     "options": {
-      "A": "Option A81",
-      "B": "Option B81",
-      "C": "Option C81",
-      "D": "Option D81"
+      "A": "Availability for those aged 16",
+      "B": "Guaranteed cash value",
+      "C": "Policy loan",
+      "D": "Premium holiday"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 81.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 8",
-    "page": 91
+    "answer": ""
   },
   {
     "questionNumber": 82,
-    "question": "Sample question text 82?",
+    "question": "The administration fee, insurance charge, fund management fee, etc. of an investment-linked life insurance policy are usually ______________.",
     "options": {
-      "A": "Option A82",
-      "B": "Option B82",
-      "C": "Option C82",
-      "D": "Option D82"
+      "A": "not guaranteed",
+      "B": "fixed",
+      "C": "decided by Bank Negara Malaysia",
+      "D": "guaranteed"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 82.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 8",
-    "page": 92
+    "answer": ""
   },
   {
     "questionNumber": 83,
-    "question": "Sample question text 83?",
+    "question": "Investors also have secondary objectives that are closer to their hearts, that are more focused on specific needs, one example is",
     "options": {
-      "A": "Option A83",
-      "B": "Option B83",
-      "C": "Option C83",
-      "D": "Option D83"
+      "A": "ensuring a comfortable standard of living",
+      "B": "guaranteeing a successful business operation",
+      "C": "ensuring a comfortable annual holiday for the family",
+      "D": "saving up for funds for their children’s future business"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 83.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 8",
-    "page": 93
+    "answer": ""
   },
   {
     "questionNumber": 84,
-    "question": "Sample question text 84?",
+    "question": "To ascertain the correct mix of objectives that client has and to realise the completion of these objectives, the agent has to make sure that clients are given a sound understanding of how ___________________.",
     "options": {
-      "A": "Option A84",
-      "B": "Option B84",
-      "C": "Option C84",
-      "D": "Option D84"
+      "A": "investments work",
+      "B": "to achieve high return",
+      "C": "to do technical analysis",
+      "D": "the expert decides"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 84.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 8",
-    "page": 94
+    "answer": ""
   },
   {
     "questionNumber": 85,
-    "question": "Sample question text 85?",
+    "question": "Clients must be told that there is a________________ trade-off and they must be able to accept this before venturing into a high-risk portfolio.",
     "options": {
-      "A": "Option A85",
-      "B": "Option B85",
-      "C": "Option C85",
-      "D": "Option D85"
+      "A": "offer-acceptance",
+      "B": "buy-sell",
+      "C": "low-high",
+      "D": "risk-return"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 85.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 8",
-    "page": 95
+    "answer": ""
   },
-  {
-    "questionNumber": 86,
-    "question": "Sample question text 86?",
-    "options": {
-      "A": "Option A86",
-      "B": "Option B86",
-      "C": "Option C86",
-      "D": "Option D86"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 86.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 8",
-    "page": 96
+{
+  "questionNumber": 86,
+  "question": "Based on Kamal’s cash flow statement as given below, identify his surplus.\n\n| No | Income                          | RM    | Expenditure                        | RM    |\n|----|----------------------------------|-------|------------------------------------|-------|\n| 1  | Salary                          | 5,000 | Rental/Housing Loan Payments       | 1,000 |\n| 2  | Rental                          |   500 | Groceries and Utilities            |   750 |\n| 3  | Commissions                     | 1,000 | Childcare/Parent’s allowance       |   500 |\n| 4  | Others                          | 1,000 | Education Expenses                 |   250 |\n| 5  |                                 |       | Loan(Car, Credit cards, etc.)      | 2,000 |\n| 6  |                                 |       | Insurance Premiums                 |   500 |\n| 7  |                                 |       | Savings                            |   500 |\n| 8  |                                 |       | Misc                               | 1,000 |",
+  "options": {
+    "A": "RM700",
+    "B": "RM800",
+    "C": "RM900",
+    "D": "RM1,000"
   },
+  "answer": ""
+},
   {
     "questionNumber": 87,
-    "question": "Sample question text 87?",
+    "question": "This statement is true of______________ stocks: “If the company defaults, the investor has no security and thus is in the same position as all the other unsecured creditors of the company.”",
     "options": {
-      "A": "Option A87",
-      "B": "Option B87",
-      "C": "Option C87",
-      "D": "Option D87"
+      "A": "loan",
+      "B": "ordinary",
+      "C": "debenture",
+      "D": "convertible"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 87.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 8",
-    "page": 97
+    "answer": ""
   },
   {
     "questionNumber": 88,
-    "question": "Sample question text 88?",
+    "question": "In the discount market, the difference between the discounted price and the par value is represented as the_______________",
     "options": {
-      "A": "Option A88",
-      "B": "Option B88",
-      "C": "Option C88",
-      "D": "Option D88"
+      "A": "profit",
+      "B": "interest",
+      "C": "coupon",
+      "D": "yield"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 88.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 8",
-    "page": 98
+    "answer": ""
   },
   {
     "questionNumber": 89,
-    "question": "Sample question text 89?",
+    "question": "A capital guaranteed fund works in the following way:",
     "options": {
-      "A": "Option A89",
-      "B": "Option B89",
-      "C": "Option C89",
-      "D": "Option D89"
+      "A": "The fund guarantees the invested capital while on the other hand, the return is decided by the investor at a specific rate",
+      "B": "The fund guarantees a profit while on the other hand, the return is capped at a specific rate although the actual investment experience may be lower",
+      "C": "The fund guarantees the invested capital while on the other hand, the return is decided at a specific rate although the actual investment experience may be lower",
+      "D": "The fund guarantees the invested capital while on the other hand, the return is capped at a specific rate although the actual investment experience may be higher"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 89.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 8",
-    "page": 99
+    "answer": ""
   },
   {
     "questionNumber": 90,
-    "question": "Sample question text 90?",
+    "question": "Commodities represent an avenue for investors to gain from price movements and the popular way to do so is by",
     "options": {
-      "A": "Option A90",
-      "B": "Option B90",
-      "C": "Option C90",
-      "D": "Option D90"
+      "A": "investing directly into commodities-based stocks",
+      "B": "purchasing stocks listed on Bursa Malaysia",
+      "C": "purchasing a futures contract",
+      "D": "purchasing a company involved in commodities"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 90.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 9",
-    "page": 100
+    "answer": ""
   },
   {
     "questionNumber": 91,
-    "question": "Sample question text 91?",
+    "question": "Which of the following statement is NOT true regarding treasury bills?",
     "options": {
-      "A": "Option A91",
-      "B": "Option B91",
-      "C": "Option C91",
-      "D": "Option D91"
+      "A": "Institutional investors are the main buyers of treasury bills",
+      "B": "Treasury bills are long-term government funding vehicles",
+      "C": "The difference between the discounted price and the par value represents the yield",
+      "D": "Treasury bills are issued by Bank Negara Malaysia"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 91.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 9",
-    "page": 101
+    "answer": ""
   },
   {
     "questionNumber": 92,
-    "question": "Sample question text 92?",
+    "question": "The main activity of a property fund is",
     "options": {
-      "A": "Option A92",
-      "B": "Option B92",
-      "C": "Option C92",
-      "D": "Option D92"
+      "A": "buying and selling of property in the secondary market",
+      "B": "buying and selling of property development companies",
+      "C": "investing of all the fund into real estate",
+      "D": "acquiring stocks in development companies"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 92.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 9",
-    "page": 102
+    "answer": ""
   },
   {
     "questionNumber": 93,
-    "question": "Sample question text 93?",
+    "question": "The following statement about equities is correct:",
     "options": {
-      "A": "Option A93",
-      "B": "Option B93",
-      "C": "Option C93",
-      "D": "Option D93"
+      "A": "Equity prices can be very steady when the stock market faces a downturn",
+      "B": "Equity prices can rise against the mainstream when the stock market faces a downturn",
+      "C": "Return potentials for equities can be significantly lower during periods of market buoyancy",
+      "D": "Return potentials for equities can be significantly higher during periods of market buoyancy"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 93.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 9",
-    "page": 103
+    "answer": ""
   },
   {
     "questionNumber": 94,
-    "question": "Sample question text 94?",
+    "question": "The BNM Guidelines on Investment-Linked Business state that the initial offer period (of a new fund) must not",
     "options": {
-      "A": "Option A94",
-      "B": "Option B94",
-      "C": "Option C94",
-      "D": "Option D94"
+      "A": "be less than two months",
+      "B": "exceed one month",
+      "C": "be less than one month",
+      "D": "exceed two months"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 94.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 9",
-    "page": 104
+    "answer": ""
   },
   {
     "questionNumber": 95,
-    "question": "Sample question text 95?",
+    "question": "Regarding the requirement for minimum death benefits and top-up premiums:",
     "options": {
-      "A": "Option A95",
-      "B": "Option B95",
-      "C": "Option C95",
-      "D": "Option D95"
+      "A": "Minimum death benefits do not apply to top-up premiums; the whole can be used to purchase units",
+      "B": "Minimum death benefits do not apply to top-up premiums but some must be used for leverage premium",
+      "C": "Minimum death benefits apply to top-up premiums; the whole cannot be used to purchase units",
+      "D": "There is a special requirement for top-ups; some must be used to pay COI"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 95.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 9",
-    "page": 105
+    "answer": ""
   },
   {
     "questionNumber": 96,
-    "question": "Sample question text 96?",
+    "question": "When meeting with a prospective policy owner, the first and most important act of the life insurance agent is to",
     "options": {
-      "A": "Option A96",
-      "B": "Option B96",
-      "C": "Option C96",
-      "D": "Option D96"
+      "A": "share benefits of investment-linked products and cost",
+      "B": "share disadvantages of competitors’ products",
+      "C": "identify his insurer and show his Authorisation Card",
+      "D": "declare his position and product he is selling"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 96.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 9",
-    "page": 106
+    "answer": ""
   },
   {
     "questionNumber": 97,
-    "question": "Sample question text 97?",
+    "question": "A consequence of replacing a policy of the same type is:",
     "options": {
-      "A": "Option A97",
-      "B": "Option B97",
-      "C": "Option C97",
-      "D": "Option D97"
+      "A": "Insured will enjoy lower premium",
+      "B": "New policy provides better benefits",
+      "C": "Replacement will be at a higher premium due to age",
+      "D": "New policy will be cheaper and improved"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 97.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 9",
-    "page": 107
+    "answer": ""
   },
   {
     "questionNumber": 98,
-    "question": "Sample question text 98?",
+    "question": "Select how the objective of satisfying a customer’s requirements can be achieved.",
     "options": {
-      "A": "Option A98",
-      "B": "Option B98",
-      "C": "Option C98",
-      "D": "Option D98"
+      "A": "I, II and III",
+      "B": "I, II and IV",
+      "C": "II, III and IV",
+      "D": "I, II,III and IV"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 98.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 9",
-    "page": 108
+    "answer": ""
   },
   {
     "questionNumber": 99,
-    "question": "Sample question text 99?",
+    "question": "When an intermediary is supplied with an illustration by the insurer, they should",
     "options": {
-      "A": "Option A99",
-      "B": "Option B99",
-      "C": "Option C99",
-      "D": "Option D99"
+      "A": "keep it in the form and explain verbally",
+      "B": "highlight only the attractive part",
+      "C": "show full illustration without altering it",
+      "D": "enhance the version to attract proposer"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 99.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 9",
-    "page": 109
+    "answer": ""
   },
   {
     "questionNumber": 100,
-    "question": "Sample question text 100?",
+    "question": "What happens if a policy owner lapses a policy and purchases a new one?",
     "options": {
-      "A": "Option A100",
-      "B": "Option B100",
-      "C": "Option C100",
-      "D": "Option D100"
+      "A": "Old premium can be transferred",
+      "B": "Suicide and incontestable clauses reset",
+      "C": "Clauses are not disrupted",
+      "D": "New policy may be rejected as old is active"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 100.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 10",
-    "page": 110
+    "answer": ""
   }
 ]
