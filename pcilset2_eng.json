@@ -935,7 +935,7 @@
     "answer": ""
   },
 {
-  "number": 86,
+  "questionNumber": 86,
   "question": "Based on Kamal’s cash flow statement as given below, identify his surplus.\n\nIncome:\n- Salary: RM5,000\n- Rental: RM500\n- Commissions: RM1,000\n- Others: RM1,000\n\nExpenditure:\n- Rental/Housing Loan Payments: RM1,000\n- Groceries and Utilities: RM750\n- Childcare/Parent’s allowance: RM500\n- Education Expenses: RM250\n- Loan (Car, Credit cards, etc.): RM2,000\n- Insurance Premiums: RM500\n- Savings: RM500\n- Misc: RM1,000",
   "options": {
     "A": "RM700",
