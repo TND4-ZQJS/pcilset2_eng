@@ -4,10 +4,10 @@ let score = 0;
 let quotes = [];
 
 // 🔧 CHANGE THIS STRING when you switch to a different question set
-const SET_KEY = 'ceilliset1_eng'; // ← Change to 'set2_' or 'set3_' etc. for other sets
+const SET_KEY = 'pcilset1_eng'; // ← Change to 'set2_' or 'set3_' etc. for other sets
 
 // Load questions
-fetch('ceillimock_set3.json')
+fetch('pcilmock_set3.json')
   .then(response => response.json())
   .then(data => {
     questions = data;
