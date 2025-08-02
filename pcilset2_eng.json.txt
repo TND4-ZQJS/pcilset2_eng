@@ -1,0 +1,1502 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "General insurance contracts provide cover against the following risks, EXCEPT:",
+    "options": {
+      "A": "damage to property",
+      "B": "motor car accident",
+      "C": "natural death",
+      "D": "legal liability"
+    },
+    "answer": "C",
+    "explanation": "General insurance covers financial loss from unforeseen events like accidents or damage to property. Natural death is covered by life insurance, not general insurance.",
+    "textbook": "PCEIA",
+    "chapter": "Types of Insurance",
+    "page": 74
+  },
+  {
+    "questionNumber": 2,
+    "question": "______________ buy insurance products.",
+    "options": {
+      "A": "Insurance and reinsurance companies",
+      "B": "Individuals and business entities",
+      "C": "Lloyd\u2019s underwriting members",
+      "D": "Insurance brokers and agents"
+    },
+    "answer": "B",
+    "explanation": "Insurance products are primarily purchased by individuals and business entities to protect against financial risks or losses.",
+    "textbook": "PCEIA",
+    "chapter": "The Insurance Market",
+    "page": 12
+  },
+  {
+    "questionNumber": 3,
+    "question": "Sample question text 3?",
+    "options": {
+      "A": "Option A3",
+      "B": "Option B3",
+      "C": "Option C3",
+      "D": "Option D3"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 3.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 0",
+    "page": 13
+  },
+  {
+    "questionNumber": 4,
+    "question": "Sample question text 4?",
+    "options": {
+      "A": "Option A4",
+      "B": "Option B4",
+      "C": "Option C4",
+      "D": "Option D4"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 4.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 0",
+    "page": 14
+  },
+  {
+    "questionNumber": 5,
+    "question": "Sample question text 5?",
+    "options": {
+      "A": "Option A5",
+      "B": "Option B5",
+      "C": "Option C5",
+      "D": "Option D5"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 5.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 0",
+    "page": 15
+  },
+  {
+    "questionNumber": 6,
+    "question": "Sample question text 6?",
+    "options": {
+      "A": "Option A6",
+      "B": "Option B6",
+      "C": "Option C6",
+      "D": "Option D6"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 6.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 0",
+    "page": 16
+  },
+  {
+    "questionNumber": 7,
+    "question": "Sample question text 7?",
+    "options": {
+      "A": "Option A7",
+      "B": "Option B7",
+      "C": "Option C7",
+      "D": "Option D7"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 7.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 0",
+    "page": 17
+  },
+  {
+    "questionNumber": 8,
+    "question": "Sample question text 8?",
+    "options": {
+      "A": "Option A8",
+      "B": "Option B8",
+      "C": "Option C8",
+      "D": "Option D8"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 8.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 0",
+    "page": 18
+  },
+  {
+    "questionNumber": 9,
+    "question": "Sample question text 9?",
+    "options": {
+      "A": "Option A9",
+      "B": "Option B9",
+      "C": "Option C9",
+      "D": "Option D9"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 9.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 0",
+    "page": 19
+  },
+  {
+    "questionNumber": 10,
+    "question": "Sample question text 10?",
+    "options": {
+      "A": "Option A10",
+      "B": "Option B10",
+      "C": "Option C10",
+      "D": "Option D10"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 10.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 1",
+    "page": 20
+  },
+  {
+    "questionNumber": 11,
+    "question": "Sample question text 11?",
+    "options": {
+      "A": "Option A11",
+      "B": "Option B11",
+      "C": "Option C11",
+      "D": "Option D11"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 11.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 1",
+    "page": 21
+  },
+  {
+    "questionNumber": 12,
+    "question": "Sample question text 12?",
+    "options": {
+      "A": "Option A12",
+      "B": "Option B12",
+      "C": "Option C12",
+      "D": "Option D12"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 12.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 1",
+    "page": 22
+  },
+  {
+    "questionNumber": 13,
+    "question": "Sample question text 13?",
+    "options": {
+      "A": "Option A13",
+      "B": "Option B13",
+      "C": "Option C13",
+      "D": "Option D13"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 13.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 1",
+    "page": 23
+  },
+  {
+    "questionNumber": 14,
+    "question": "Sample question text 14?",
+    "options": {
+      "A": "Option A14",
+      "B": "Option B14",
+      "C": "Option C14",
+      "D": "Option D14"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 14.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 1",
+    "page": 24
+  },
+  {
+    "questionNumber": 15,
+    "question": "Sample question text 15?",
+    "options": {
+      "A": "Option A15",
+      "B": "Option B15",
+      "C": "Option C15",
+      "D": "Option D15"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 15.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 1",
+    "page": 25
+  },
+  {
+    "questionNumber": 16,
+    "question": "Sample question text 16?",
+    "options": {
+      "A": "Option A16",
+      "B": "Option B16",
+      "C": "Option C16",
+      "D": "Option D16"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 16.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 1",
+    "page": 26
+  },
+  {
+    "questionNumber": 17,
+    "question": "Sample question text 17?",
+    "options": {
+      "A": "Option A17",
+      "B": "Option B17",
+      "C": "Option C17",
+      "D": "Option D17"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 17.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 1",
+    "page": 27
+  },
+  {
+    "questionNumber": 18,
+    "question": "Sample question text 18?",
+    "options": {
+      "A": "Option A18",
+      "B": "Option B18",
+      "C": "Option C18",
+      "D": "Option D18"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 18.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 1",
+    "page": 28
+  },
+  {
+    "questionNumber": 19,
+    "question": "Sample question text 19?",
+    "options": {
+      "A": "Option A19",
+      "B": "Option B19",
+      "C": "Option C19",
+      "D": "Option D19"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 19.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 1",
+    "page": 29
+  },
+  {
+    "questionNumber": 20,
+    "question": "Sample question text 20?",
+    "options": {
+      "A": "Option A20",
+      "B": "Option B20",
+      "C": "Option C20",
+      "D": "Option D20"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 20.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 2",
+    "page": 30
+  },
+  {
+    "questionNumber": 21,
+    "question": "Sample question text 21?",
+    "options": {
+      "A": "Option A21",
+      "B": "Option B21",
+      "C": "Option C21",
+      "D": "Option D21"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 21.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 2",
+    "page": 31
+  },
+  {
+    "questionNumber": 22,
+    "question": "Sample question text 22?",
+    "options": {
+      "A": "Option A22",
+      "B": "Option B22",
+      "C": "Option C22",
+      "D": "Option D22"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 22.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 2",
+    "page": 32
+  },
+  {
+    "questionNumber": 23,
+    "question": "Sample question text 23?",
+    "options": {
+      "A": "Option A23",
+      "B": "Option B23",
+      "C": "Option C23",
+      "D": "Option D23"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 23.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 2",
+    "page": 33
+  },
+  {
+    "questionNumber": 24,
+    "question": "Sample question text 24?",
+    "options": {
+      "A": "Option A24",
+      "B": "Option B24",
+      "C": "Option C24",
+      "D": "Option D24"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 24.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 2",
+    "page": 34
+  },
+  {
+    "questionNumber": 25,
+    "question": "Sample question text 25?",
+    "options": {
+      "A": "Option A25",
+      "B": "Option B25",
+      "C": "Option C25",
+      "D": "Option D25"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 25.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 2",
+    "page": 35
+  },
+  {
+    "questionNumber": 26,
+    "question": "Sample question text 26?",
+    "options": {
+      "A": "Option A26",
+      "B": "Option B26",
+      "C": "Option C26",
+      "D": "Option D26"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 26.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 2",
+    "page": 36
+  },
+  {
+    "questionNumber": 27,
+    "question": "Sample question text 27?",
+    "options": {
+      "A": "Option A27",
+      "B": "Option B27",
+      "C": "Option C27",
+      "D": "Option D27"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 27.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 2",
+    "page": 37
+  },
+  {
+    "questionNumber": 28,
+    "question": "Sample question text 28?",
+    "options": {
+      "A": "Option A28",
+      "B": "Option B28",
+      "C": "Option C28",
+      "D": "Option D28"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 28.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 2",
+    "page": 38
+  },
+  {
+    "questionNumber": 29,
+    "question": "Sample question text 29?",
+    "options": {
+      "A": "Option A29",
+      "B": "Option B29",
+      "C": "Option C29",
+      "D": "Option D29"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 29.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 2",
+    "page": 39
+  },
+  {
+    "questionNumber": 30,
+    "question": "Sample question text 30?",
+    "options": {
+      "A": "Option A30",
+      "B": "Option B30",
+      "C": "Option C30",
+      "D": "Option D30"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 30.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 3",
+    "page": 40
+  },
+  {
+    "questionNumber": 31,
+    "question": "Sample question text 31?",
+    "options": {
+      "A": "Option A31",
+      "B": "Option B31",
+      "C": "Option C31",
+      "D": "Option D31"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 31.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 3",
+    "page": 41
+  },
+  {
+    "questionNumber": 32,
+    "question": "Sample question text 32?",
+    "options": {
+      "A": "Option A32",
+      "B": "Option B32",
+      "C": "Option C32",
+      "D": "Option D32"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 32.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 3",
+    "page": 42
+  },
+  {
+    "questionNumber": 33,
+    "question": "Sample question text 33?",
+    "options": {
+      "A": "Option A33",
+      "B": "Option B33",
+      "C": "Option C33",
+      "D": "Option D33"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 33.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 3",
+    "page": 43
+  },
+  {
+    "questionNumber": 34,
+    "question": "Sample question text 34?",
+    "options": {
+      "A": "Option A34",
+      "B": "Option B34",
+      "C": "Option C34",
+      "D": "Option D34"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 34.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 3",
+    "page": 44
+  },
+  {
+    "questionNumber": 35,
+    "question": "Sample question text 35?",
+    "options": {
+      "A": "Option A35",
+      "B": "Option B35",
+      "C": "Option C35",
+      "D": "Option D35"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 35.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 3",
+    "page": 45
+  },
+  {
+    "questionNumber": 36,
+    "question": "Sample question text 36?",
+    "options": {
+      "A": "Option A36",
+      "B": "Option B36",
+      "C": "Option C36",
+      "D": "Option D36"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 36.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 3",
+    "page": 46
+  },
+  {
+    "questionNumber": 37,
+    "question": "Sample question text 37?",
+    "options": {
+      "A": "Option A37",
+      "B": "Option B37",
+      "C": "Option C37",
+      "D": "Option D37"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 37.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 3",
+    "page": 47
+  },
+  {
+    "questionNumber": 38,
+    "question": "Sample question text 38?",
+    "options": {
+      "A": "Option A38",
+      "B": "Option B38",
+      "C": "Option C38",
+      "D": "Option D38"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 38.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 3",
+    "page": 48
+  },
+  {
+    "questionNumber": 39,
+    "question": "Sample question text 39?",
+    "options": {
+      "A": "Option A39",
+      "B": "Option B39",
+      "C": "Option C39",
+      "D": "Option D39"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 39.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 3",
+    "page": 49
+  },
+  {
+    "questionNumber": 40,
+    "question": "Sample question text 40?",
+    "options": {
+      "A": "Option A40",
+      "B": "Option B40",
+      "C": "Option C40",
+      "D": "Option D40"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 40.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 4",
+    "page": 50
+  },
+  {
+    "questionNumber": 41,
+    "question": "Sample question text 41?",
+    "options": {
+      "A": "Option A41",
+      "B": "Option B41",
+      "C": "Option C41",
+      "D": "Option D41"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 41.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 4",
+    "page": 51
+  },
+  {
+    "questionNumber": 42,
+    "question": "Sample question text 42?",
+    "options": {
+      "A": "Option A42",
+      "B": "Option B42",
+      "C": "Option C42",
+      "D": "Option D42"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 42.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 4",
+    "page": 52
+  },
+  {
+    "questionNumber": 43,
+    "question": "Sample question text 43?",
+    "options": {
+      "A": "Option A43",
+      "B": "Option B43",
+      "C": "Option C43",
+      "D": "Option D43"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 43.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 4",
+    "page": 53
+  },
+  {
+    "questionNumber": 44,
+    "question": "Sample question text 44?",
+    "options": {
+      "A": "Option A44",
+      "B": "Option B44",
+      "C": "Option C44",
+      "D": "Option D44"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 44.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 4",
+    "page": 54
+  },
+  {
+    "questionNumber": 45,
+    "question": "Sample question text 45?",
+    "options": {
+      "A": "Option A45",
+      "B": "Option B45",
+      "C": "Option C45",
+      "D": "Option D45"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 45.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 4",
+    "page": 55
+  },
+  {
+    "questionNumber": 46,
+    "question": "Sample question text 46?",
+    "options": {
+      "A": "Option A46",
+      "B": "Option B46",
+      "C": "Option C46",
+      "D": "Option D46"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 46.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 4",
+    "page": 56
+  },
+  {
+    "questionNumber": 47,
+    "question": "Sample question text 47?",
+    "options": {
+      "A": "Option A47",
+      "B": "Option B47",
+      "C": "Option C47",
+      "D": "Option D47"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 47.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 4",
+    "page": 57
+  },
+  {
+    "questionNumber": 48,
+    "question": "Sample question text 48?",
+    "options": {
+      "A": "Option A48",
+      "B": "Option B48",
+      "C": "Option C48",
+      "D": "Option D48"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 48.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 4",
+    "page": 58
+  },
+  {
+    "questionNumber": 49,
+    "question": "Sample question text 49?",
+    "options": {
+      "A": "Option A49",
+      "B": "Option B49",
+      "C": "Option C49",
+      "D": "Option D49"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 49.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 4",
+    "page": 59
+  },
+  {
+    "questionNumber": 50,
+    "question": "Sample question text 50?",
+    "options": {
+      "A": "Option A50",
+      "B": "Option B50",
+      "C": "Option C50",
+      "D": "Option D50"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 50.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 5",
+    "page": 60
+  },
+  {
+    "questionNumber": 51,
+    "question": "Sample question text 51?",
+    "options": {
+      "A": "Option A51",
+      "B": "Option B51",
+      "C": "Option C51",
+      "D": "Option D51"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 51.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 5",
+    "page": 61
+  },
+  {
+    "questionNumber": 52,
+    "question": "Sample question text 52?",
+    "options": {
+      "A": "Option A52",
+      "B": "Option B52",
+      "C": "Option C52",
+      "D": "Option D52"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 52.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 5",
+    "page": 62
+  },
+  {
+    "questionNumber": 53,
+    "question": "Sample question text 53?",
+    "options": {
+      "A": "Option A53",
+      "B": "Option B53",
+      "C": "Option C53",
+      "D": "Option D53"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 53.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 5",
+    "page": 63
+  },
+  {
+    "questionNumber": 54,
+    "question": "Sample question text 54?",
+    "options": {
+      "A": "Option A54",
+      "B": "Option B54",
+      "C": "Option C54",
+      "D": "Option D54"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 54.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 5",
+    "page": 64
+  },
+  {
+    "questionNumber": 55,
+    "question": "Sample question text 55?",
+    "options": {
+      "A": "Option A55",
+      "B": "Option B55",
+      "C": "Option C55",
+      "D": "Option D55"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 55.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 5",
+    "page": 65
+  },
+  {
+    "questionNumber": 56,
+    "question": "Sample question text 56?",
+    "options": {
+      "A": "Option A56",
+      "B": "Option B56",
+      "C": "Option C56",
+      "D": "Option D56"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 56.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 5",
+    "page": 66
+  },
+  {
+    "questionNumber": 57,
+    "question": "Sample question text 57?",
+    "options": {
+      "A": "Option A57",
+      "B": "Option B57",
+      "C": "Option C57",
+      "D": "Option D57"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 57.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 5",
+    "page": 67
+  },
+  {
+    "questionNumber": 58,
+    "question": "Sample question text 58?",
+    "options": {
+      "A": "Option A58",
+      "B": "Option B58",
+      "C": "Option C58",
+      "D": "Option D58"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 58.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 5",
+    "page": 68
+  },
+  {
+    "questionNumber": 59,
+    "question": "Sample question text 59?",
+    "options": {
+      "A": "Option A59",
+      "B": "Option B59",
+      "C": "Option C59",
+      "D": "Option D59"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 59.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 5",
+    "page": 69
+  },
+  {
+    "questionNumber": 60,
+    "question": "Sample question text 60?",
+    "options": {
+      "A": "Option A60",
+      "B": "Option B60",
+      "C": "Option C60",
+      "D": "Option D60"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 60.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 6",
+    "page": 70
+  },
+  {
+    "questionNumber": 61,
+    "question": "Sample question text 61?",
+    "options": {
+      "A": "Option A61",
+      "B": "Option B61",
+      "C": "Option C61",
+      "D": "Option D61"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 61.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 6",
+    "page": 71
+  },
+  {
+    "questionNumber": 62,
+    "question": "Sample question text 62?",
+    "options": {
+      "A": "Option A62",
+      "B": "Option B62",
+      "C": "Option C62",
+      "D": "Option D62"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 62.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 6",
+    "page": 72
+  },
+  {
+    "questionNumber": 63,
+    "question": "Sample question text 63?",
+    "options": {
+      "A": "Option A63",
+      "B": "Option B63",
+      "C": "Option C63",
+      "D": "Option D63"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 63.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 6",
+    "page": 73
+  },
+  {
+    "questionNumber": 64,
+    "question": "Sample question text 64?",
+    "options": {
+      "A": "Option A64",
+      "B": "Option B64",
+      "C": "Option C64",
+      "D": "Option D64"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 64.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 6",
+    "page": 74
+  },
+  {
+    "questionNumber": 65,
+    "question": "Sample question text 65?",
+    "options": {
+      "A": "Option A65",
+      "B": "Option B65",
+      "C": "Option C65",
+      "D": "Option D65"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 65.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 6",
+    "page": 75
+  },
+  {
+    "questionNumber": 66,
+    "question": "Sample question text 66?",
+    "options": {
+      "A": "Option A66",
+      "B": "Option B66",
+      "C": "Option C66",
+      "D": "Option D66"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 66.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 6",
+    "page": 76
+  },
+  {
+    "questionNumber": 67,
+    "question": "Sample question text 67?",
+    "options": {
+      "A": "Option A67",
+      "B": "Option B67",
+      "C": "Option C67",
+      "D": "Option D67"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 67.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 6",
+    "page": 77
+  },
+  {
+    "questionNumber": 68,
+    "question": "Sample question text 68?",
+    "options": {
+      "A": "Option A68",
+      "B": "Option B68",
+      "C": "Option C68",
+      "D": "Option D68"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 68.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 6",
+    "page": 78
+  },
+  {
+    "questionNumber": 69,
+    "question": "Sample question text 69?",
+    "options": {
+      "A": "Option A69",
+      "B": "Option B69",
+      "C": "Option C69",
+      "D": "Option D69"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 69.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 6",
+    "page": 79
+  },
+  {
+    "questionNumber": 70,
+    "question": "Sample question text 70?",
+    "options": {
+      "A": "Option A70",
+      "B": "Option B70",
+      "C": "Option C70",
+      "D": "Option D70"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 70.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 7",
+    "page": 80
+  },
+  {
+    "questionNumber": 71,
+    "question": "Sample question text 71?",
+    "options": {
+      "A": "Option A71",
+      "B": "Option B71",
+      "C": "Option C71",
+      "D": "Option D71"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 71.",
+    "textbook": "CEILLI",
+    "chapter": "Chapter 7",
+    "page": 81
+  },
+  {
+    "questionNumber": 72,
+    "question": "Sample question text 72?",
+    "options": {
+      "A": "Option A72",
+      "B": "Option B72",
+      "C": "Option C72",
+      "D": "Option D72"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 72.",
+    "textbook": "CEILLI",
+    "chapter": "Chapter 7",
+    "page": 82
+  },
+  {
+    "questionNumber": 73,
+    "question": "Sample question text 73?",
+    "options": {
+      "A": "Option A73",
+      "B": "Option B73",
+      "C": "Option C73",
+      "D": "Option D73"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 73.",
+    "textbook": "CEILLI",
+    "chapter": "Chapter 7",
+    "page": 83
+  },
+  {
+    "questionNumber": 74,
+    "question": "Sample question text 74?",
+    "options": {
+      "A": "Option A74",
+      "B": "Option B74",
+      "C": "Option C74",
+      "D": "Option D74"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 74.",
+    "textbook": "CEILLI",
+    "chapter": "Chapter 7",
+    "page": 84
+  },
+  {
+    "questionNumber": 75,
+    "question": "Sample question text 75?",
+    "options": {
+      "A": "Option A75",
+      "B": "Option B75",
+      "C": "Option C75",
+      "D": "Option D75"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 75.",
+    "textbook": "CEILLI",
+    "chapter": "Chapter 7",
+    "page": 85
+  },
+  {
+    "questionNumber": 76,
+    "question": "Sample question text 76?",
+    "options": {
+      "A": "Option A76",
+      "B": "Option B76",
+      "C": "Option C76",
+      "D": "Option D76"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 76.",
+    "textbook": "CEILLI",
+    "chapter": "Chapter 7",
+    "page": 86
+  },
+  {
+    "questionNumber": 77,
+    "question": "Sample question text 77?",
+    "options": {
+      "A": "Option A77",
+      "B": "Option B77",
+      "C": "Option C77",
+      "D": "Option D77"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 77.",
+    "textbook": "CEILLI",
+    "chapter": "Chapter 7",
+    "page": 87
+  },
+  {
+    "questionNumber": 78,
+    "question": "Sample question text 78?",
+    "options": {
+      "A": "Option A78",
+      "B": "Option B78",
+      "C": "Option C78",
+      "D": "Option D78"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 78.",
+    "textbook": "CEILLI",
+    "chapter": "Chapter 7",
+    "page": 88
+  },
+  {
+    "questionNumber": 79,
+    "question": "Sample question text 79?",
+    "options": {
+      "A": "Option A79",
+      "B": "Option B79",
+      "C": "Option C79",
+      "D": "Option D79"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 79.",
+    "textbook": "CEILLI",
+    "chapter": "Chapter 7",
+    "page": 89
+  },
+  {
+    "questionNumber": 80,
+    "question": "Sample question text 80?",
+    "options": {
+      "A": "Option A80",
+      "B": "Option B80",
+      "C": "Option C80",
+      "D": "Option D80"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 80.",
+    "textbook": "CEILLI",
+    "chapter": "Chapter 8",
+    "page": 90
+  },
+  {
+    "questionNumber": 81,
+    "question": "Sample question text 81?",
+    "options": {
+      "A": "Option A81",
+      "B": "Option B81",
+      "C": "Option C81",
+      "D": "Option D81"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 81.",
+    "textbook": "CEILLI",
+    "chapter": "Chapter 8",
+    "page": 91
+  },
+  {
+    "questionNumber": 82,
+    "question": "Sample question text 82?",
+    "options": {
+      "A": "Option A82",
+      "B": "Option B82",
+      "C": "Option C82",
+      "D": "Option D82"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 82.",
+    "textbook": "CEILLI",
+    "chapter": "Chapter 8",
+    "page": 92
+  },
+  {
+    "questionNumber": 83,
+    "question": "Sample question text 83?",
+    "options": {
+      "A": "Option A83",
+      "B": "Option B83",
+      "C": "Option C83",
+      "D": "Option D83"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 83.",
+    "textbook": "CEILLI",
+    "chapter": "Chapter 8",
+    "page": 93
+  },
+  {
+    "questionNumber": 84,
+    "question": "Sample question text 84?",
+    "options": {
+      "A": "Option A84",
+      "B": "Option B84",
+      "C": "Option C84",
+      "D": "Option D84"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 84.",
+    "textbook": "CEILLI",
+    "chapter": "Chapter 8",
+    "page": 94
+  },
+  {
+    "questionNumber": 85,
+    "question": "Sample question text 85?",
+    "options": {
+      "A": "Option A85",
+      "B": "Option B85",
+      "C": "Option C85",
+      "D": "Option D85"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 85.",
+    "textbook": "CEILLI",
+    "chapter": "Chapter 8",
+    "page": 95
+  },
+  {
+    "questionNumber": 86,
+    "question": "Sample question text 86?",
+    "options": {
+      "A": "Option A86",
+      "B": "Option B86",
+      "C": "Option C86",
+      "D": "Option D86"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 86.",
+    "textbook": "CEILLI",
+    "chapter": "Chapter 8",
+    "page": 96
+  },
+  {
+    "questionNumber": 87,
+    "question": "Sample question text 87?",
+    "options": {
+      "A": "Option A87",
+      "B": "Option B87",
+      "C": "Option C87",
+      "D": "Option D87"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 87.",
+    "textbook": "CEILLI",
+    "chapter": "Chapter 8",
+    "page": 97
+  },
+  {
+    "questionNumber": 88,
+    "question": "Sample question text 88?",
+    "options": {
+      "A": "Option A88",
+      "B": "Option B88",
+      "C": "Option C88",
+      "D": "Option D88"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 88.",
+    "textbook": "CEILLI",
+    "chapter": "Chapter 8",
+    "page": 98
+  },
+  {
+    "questionNumber": 89,
+    "question": "Sample question text 89?",
+    "options": {
+      "A": "Option A89",
+      "B": "Option B89",
+      "C": "Option C89",
+      "D": "Option D89"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 89.",
+    "textbook": "CEILLI",
+    "chapter": "Chapter 8",
+    "page": 99
+  },
+  {
+    "questionNumber": 90,
+    "question": "Sample question text 90?",
+    "options": {
+      "A": "Option A90",
+      "B": "Option B90",
+      "C": "Option C90",
+      "D": "Option D90"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 90.",
+    "textbook": "CEILLI",
+    "chapter": "Chapter 9",
+    "page": 100
+  },
+  {
+    "questionNumber": 91,
+    "question": "Sample question text 91?",
+    "options": {
+      "A": "Option A91",
+      "B": "Option B91",
+      "C": "Option C91",
+      "D": "Option D91"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 91.",
+    "textbook": "CEILLI",
+    "chapter": "Chapter 9",
+    "page": 101
+  },
+  {
+    "questionNumber": 92,
+    "question": "Sample question text 92?",
+    "options": {
+      "A": "Option A92",
+      "B": "Option B92",
+      "C": "Option C92",
+      "D": "Option D92"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 92.",
+    "textbook": "CEILLI",
+    "chapter": "Chapter 9",
+    "page": 102
+  },
+  {
+    "questionNumber": 93,
+    "question": "Sample question text 93?",
+    "options": {
+      "A": "Option A93",
+      "B": "Option B93",
+      "C": "Option C93",
+      "D": "Option D93"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 93.",
+    "textbook": "CEILLI",
+    "chapter": "Chapter 9",
+    "page": 103
+  },
+  {
+    "questionNumber": 94,
+    "question": "Sample question text 94?",
+    "options": {
+      "A": "Option A94",
+      "B": "Option B94",
+      "C": "Option C94",
+      "D": "Option D94"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 94.",
+    "textbook": "CEILLI",
+    "chapter": "Chapter 9",
+    "page": 104
+  },
+  {
+    "questionNumber": 95,
+    "question": "Sample question text 95?",
+    "options": {
+      "A": "Option A95",
+      "B": "Option B95",
+      "C": "Option C95",
+      "D": "Option D95"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 95.",
+    "textbook": "CEILLI",
+    "chapter": "Chapter 9",
+    "page": 105
+  },
+  {
+    "questionNumber": 96,
+    "question": "Sample question text 96?",
+    "options": {
+      "A": "Option A96",
+      "B": "Option B96",
+      "C": "Option C96",
+      "D": "Option D96"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 96.",
+    "textbook": "CEILLI",
+    "chapter": "Chapter 9",
+    "page": 106
+  },
+  {
+    "questionNumber": 97,
+    "question": "Sample question text 97?",
+    "options": {
+      "A": "Option A97",
+      "B": "Option B97",
+      "C": "Option C97",
+      "D": "Option D97"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 97.",
+    "textbook": "CEILLI",
+    "chapter": "Chapter 9",
+    "page": 107
+  },
+  {
+    "questionNumber": 98,
+    "question": "Sample question text 98?",
+    "options": {
+      "A": "Option A98",
+      "B": "Option B98",
+      "C": "Option C98",
+      "D": "Option D98"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 98.",
+    "textbook": "CEILLI",
+    "chapter": "Chapter 9",
+    "page": 108
+  },
+  {
+    "questionNumber": 99,
+    "question": "Sample question text 99?",
+    "options": {
+      "A": "Option A99",
+      "B": "Option B99",
+      "C": "Option C99",
+      "D": "Option D99"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 99.",
+    "textbook": "CEILLI",
+    "chapter": "Chapter 9",
+    "page": 109
+  },
+  {
+    "questionNumber": 100,
+    "question": "Sample question text 100?",
+    "options": {
+      "A": "Option A100",
+      "B": "Option B100",
+      "C": "Option C100",
+      "D": "Option D100"
+    },
+    "answer": "A",
+    "explanation": "Sample explanation for question 100.",
+    "textbook": "CEILLI",
+    "chapter": "Chapter 10",
+    "page": 110
+  }
+]
