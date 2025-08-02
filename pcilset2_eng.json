@@ -221,303 +221,223 @@
   },
   {
     "questionNumber": 21,
-    "question": "Sample question text 21?",
+    "question": "Insurance companies must _________________ in respect of Customer Due Diligence under the Anti Money Laundering and Counter Financing of Terrorism compliance guidelines.",
     "options": {
-      "A": "Option A21",
-      "B": "Option B21",
-      "C": "Option C21",
-      "D": "Option D21"
+      "A": "implement risk management commensurate with the level of money laundering and terrorism financing risks",
+      "B": "report all cash transactions exceeding RM50,000 to Bank Negara Malaysia",
+      "C": "submit a report on any suspicious transaction to Bank Negara Malaysia",
+      "D": "verify and be satisfied with the identity of the customer or beneficial owner through reliable documentation when establishing business relationships"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 21.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 2",
-    "page": 31
+    "answer": ""
   },
   {
     "questionNumber": 22,
-    "question": "Sample question text 22?",
+    "question": "In the context of insurance, an ‘offer’ is made by the________________ when submitting a completed and signed proposal form to the insurer.",
     "options": {
-      "A": "Option A22",
-      "B": "Option B22",
-      "C": "Option C22",
-      "D": "Option D22"
+      "A": "proposer",
+      "B": "agent",
+      "C": "finance company",
+      "D": "broker"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 22.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 2",
-    "page": 32
+    "answer": ""
   },
   {
     "questionNumber": 23,
-    "question": "Sample question text 23?",
+    "question": "A key characteristic for a contract to be considered legally binding is the",
     "options": {
-      "A": "Option A23",
-      "B": "Option B23",
-      "C": "Option C23",
-      "D": "Option D23"
+      "A": "intention to create a legal relationship",
+      "B": "seal and stamp on the written document",
+      "C": "mutual agreement arising out of goodwill",
+      "D": "freedom to contract by all parties"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 23.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 2",
-    "page": 33
+    "answer": ""
   },
   {
     "questionNumber": 24,
-    "question": "Sample question text 24?",
+    "question": "There must be ‘consensus ad idem’ or ‘meeting of the minds’ in the formation of an insurance contract; otherwise, the contract would be deemed ______________.",
     "options": {
-      "A": "Option A24",
-      "B": "Option B24",
-      "C": "Option C24",
-      "D": "Option D24"
+      "A": "unenforceable",
+      "B": "ineffective",
+      "C": "void",
+      "D": "voidable"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 24.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 2",
-    "page": 34
+    "answer": ""
   },
   {
     "questionNumber": 25,
-    "question": "Sample question text 25?",
+    "question": "Life Insurance contracts are subject to some formal rules as required by the Financial Services Act 2013. Schedule 8 (2) provides for ‘objection to life policy’ by the insured within 15 days after the delivery of the policy document. This period is referred to as the",
     "options": {
-      "A": "Option A25",
-      "B": "Option B25",
-      "C": "Option C25",
-      "D": "Option D25"
+      "A": "cooling-of period",
+      "B": "free to return period",
+      "C": "right to object period",
+      "D": "right to cancel period"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 25.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 2",
-    "page": 35
+    "answer": ""
   },
   {
     "questionNumber": 26,
-    "question": "Sample question text 26?",
+    "question": "A fundamental condition under a life insurance contract is __________________ before assumption of risk by the insurer.",
     "options": {
-      "A": "Option A26",
-      "B": "Option B26",
-      "C": "Option C26",
-      "D": "Option D26"
+      "A": "duty of disclosure",
+      "B": "medical examination",
+      "C": "signing the proposal",
+      "D": "payment of premium"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 26.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 2",
-    "page": 36
+    "answer": ""
   },
   {
     "questionNumber": 27,
-    "question": "Sample question text 27?",
+    "question": "_____________ is a legal contract creating a fiduciary relationship whereby the principal agrees that the actions of the agent bind the principal.",
     "options": {
-      "A": "Option A27",
-      "B": "Option B27",
-      "C": "Option C27",
-      "D": "Option D27"
+      "A": "Agency by ratification",
+      "B": "Agency by necessity",
+      "C": "Agency by agreement",
+      "D": "Agency by selection"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 27.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 2",
-    "page": 37
+    "answer": ""
   },
   {
     "questionNumber": 28,
-    "question": "Sample question text 28?",
+    "question": "When an agency and principal relationship is formed retrospectively, this type of relationship is referred to as agency by",
     "options": {
-      "A": "Option A28",
-      "B": "Option B28",
-      "C": "Option C28",
-      "D": "Option D28"
+      "A": "Necessity",
+      "B": "compulsion",
+      "C": "agreement",
+      "D": "ratification"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 28.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 2",
-    "page": 38
+    "answer": ""
   },
   {
     "questionNumber": 29,
-    "question": "Sample question text 29?",
+    "question": "In Malaysia, insurance agencies are created",
     "options": {
-      "A": "Option A29",
-      "B": "Option B29",
-      "C": "Option C29",
-      "D": "Option D29"
+      "A": "only through appointment by express agreement",
+      "B": "through the creation of agency of necessity",
+      "C": "through agency by ratification",
+      "D": "by implied agreement"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 29.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 2",
-    "page": 39
+    "answer": ""
   },
   {
     "questionNumber": 30,
-    "question": "Sample question text 30?",
+    "question": "The following does NOT reflect an act of good faith on the part of an agent when dealing with the principal:",
     "options": {
-      "A": "Option A30",
-      "B": "Option B30",
-      "C": "Option C30",
-      "D": "Option D30"
+      "A": "Not concealing any relevant information",
+      "B": "Acting for his own personal interests at all times",
+      "C": "Not accepting secret commissions",
+      "D": "Maintaining confidentiality of personal data"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 30.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 3",
-    "page": 40
+    "answer": ""
   },
   {
     "questionNumber": 31,
-    "question": "Sample question text 31?",
+    "question": "In addition to paying the agreed commissions, a principal must reimburse the agent any money expended in the course of carrying out his duties. This is called the agent’s right to______________.",
     "options": {
-      "A": "Option A31",
-      "B": "Option B31",
-      "C": "Option C31",
-      "D": "Option D31"
+      "A": "contribution",
+      "B": "indemnity",
+      "C": "compensation",
+      "D": "remuneration"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 31.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 3",
-    "page": 41
+    "answer": ""
   },
   {
     "questionNumber": 32,
-    "question": "Sample question text 32?",
+    "question": "Which of the following is NOT a benefit provided by medical and health Insurance?",
     "options": {
-      "A": "Option A32",
-      "B": "Option B32",
-      "C": "Option C32",
-      "D": "Option D32"
+      "A": "Lump sum payment on accidental death",
+      "B": "Lump sum payment for critical illness",
+      "C": "Reimbursement of medical expenses",
+      "D": "Payment of an allowance or income stream"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 32.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 3",
-    "page": 42
+    "answer": ""
   },
   {
     "questionNumber": 33,
-    "question": "Sample question text 33?",
+    "question": "Identify the benefits provided by a hospital and surgical insurance policy",
     "options": {
-      "A": "Option A33",
-      "B": "Option B33",
-      "C": "Option C33",
-      "D": "Option D33"
+      "A": "Payment of the sum assured on permanent total disablement or death",
+      "B": "Reimbursement of medical expenses incurred",
+      "C": "Lump sum payment up diagnosis of a critical illness",
+      "D": "Stream of income for the period of temporary disablement"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 33.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 3",
-    "page": 43
+    "answer": ""
   },
   {
     "questionNumber": 34,
-    "question": "Sample question text 34?",
+    "question": "Which of the following is NOT a medical and health insurance product?",
     "options": {
-      "A": "Option A34",
-      "B": "Option B34",
-      "C": "Option C34",
-      "D": "Option D34"
+      "A": "Hospital and surgical insurance",
+      "B": "Permanent disability income insurance",
+      "C": "Critical illness or dread disease insurance",
+      "D": "Disability Income insurance"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 34.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 3",
-    "page": 44
+    "answer": ""
   },
   {
     "questionNumber": 35,
-    "question": "Sample question text 35?",
+    "question": "Age and gender are important considerations in medical and health insurance and females have a higher rate of______________ as compared to their male counterparts.",
     "options": {
-      "A": "Option A35",
-      "B": "Option B35",
-      "C": "Option C35",
-      "D": "Option D35"
+      "A": "mortality",
+      "B": "morbidity",
+      "C": "morality",
+      "D": "mobility"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 35.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 3",
-    "page": 45
+    "answer": ""
   },
   {
     "questionNumber": 36,
-    "question": "Sample question text 36?",
+    "question": "Bank Negara Malaysia has issued Guidelines on Medical and Health Insurance Business, and Guidelines on Product Transparency and Disclosure to\nI. increase competition among private health care providers\nII. reduce mis-selling and misrepresentation to consumers\nIII. enhance access to healthcare through private insurance\nIV. contain costs to promote long-term sustainability of the private health insurance sector",
     "options": {
-      "A": "Option A36",
-      "B": "Option B36",
-      "C": "Option C36",
-      "D": "Option D36"
+      "A": "I and III",
+      "B": "III and IV",
+      "C": "I, II and III",
+      "D": "II, III and IV"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 36.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 3",
-    "page": 46
+    "answer": ""
   },
   {
     "questionNumber": 37,
-    "question": "Sample question text 37?",
+    "question": "Identify the risk category under medical and health insurance that will be imposed special terms, higher premiums or limitations in coverage or both",
     "options": {
-      "A": "Option A37",
-      "B": "Option B37",
-      "C": "Option C37",
-      "D": "Option D37"
+      "A": "Decline risk",
+      "B": "Special risk",
+      "C": "Standard risk",
+      "D": "Sub-standard risk"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 37.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 3",
-    "page": 47
+    "answer": ""
   },
   {
     "questionNumber": 38,
-    "question": "Sample question text 38?",
+    "question": "________________ is NOT a method of policy limitation applied to hospital and surgical insurance policies in order to contain rising claims cost.",
     "options": {
-      "A": "Option A38",
-      "B": "Option B38",
-      "C": "Option C38",
-      "D": "Option D38"
+      "A": "‘AS Charged’ basis",
+      "B": "‘Annual or lifetime’ limits",
+      "C": "‘Cost Sharing’ basis",
+      "D": "Deductibles"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 38.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 3",
-    "page": 48
+    "answer": ""
   },
   {
     "questionNumber": 39,
-    "question": "Sample question text 39?",
+    "question": "Which of the following will NOT terminate a policy?",
     "options": {
-      "A": "Option A39",
-      "B": "Option B39",
-      "C": "Option C39",
-      "D": "Option D39"
+      "A": "Death of the insured",
+      "B": "On the policy anniversary date following the insured’s maximum eligibility age",
+      "C": "Exhaustion of the annual limit or lifetime limit stipulated",
+      "D": "Sudden disappearance of insured for 5 years"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 39.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 3",
-    "page": 49
+    "answer": ""
   },
   {
     "questionNumber": 40,
-    "question": "Sample question text 40?",
+    "question": "Occupational hazard increases the chance of work-related injuries and diseases which in turn affect the premium rates, particularly for",
     "options": {
-      "A": "Option A40",
-      "B": "Option B40",
-      "C": "Option C40",
-      "D": "Option D40"
+      "A": "hospital and surgical insurance",
+      "B": "disability income insurance",
+      "C": "hospital income insurance",
+      "D": "critical illness insurance"
     },
-    "answer": "A",
-    "explanation": "Sample explanation for question 40.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 4",
-    "page": 50
+    "answer": ""
   },
   {
     "questionNumber": 41,
